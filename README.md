@@ -3,7 +3,7 @@
  
 ### Senior Software Engineer · Java & Spring · Backend & Full Stack · Software Architecture · Cloud · AI
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=1F4E79&center=true&vCenter=true&width=700&lines=20%2B+years+building+backend+systems;Java+%26+Spring+Boot+microservices;Architecture%2C+APIs+and+cloud+platforms;Remote+engineering+for+Canadian+companies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=1F4E79&center=true&vCenter=true&width=700&lines=20%2B+years+building+backend+systems;Java+%26+Spring+Boot+microservices;Architecture%2C+APIs+and+cloud+platforms;Remote+engineering+for+North%20America+companies)](https://git.io/typing-svg)
  
 📍 São Paulo, Brazil &nbsp;·&nbsp; 🇬🇧 English (advanced) &nbsp;·&nbsp; 🇧🇷 Portuguese (native)
  
