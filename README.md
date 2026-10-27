@@ -8,7 +8,6 @@
 📍 São Paulo, Brazil &nbsp;·&nbsp; 🇬🇧 English (advanced) &nbsp;·&nbsp; 🇧🇷 Portuguese (native)
  
 </div>
----
  
 ## 👨‍💻 About me
  
